@@ -4,8 +4,8 @@
 
 | Package               | Version          |
 |-----------------------|------------------|
-| PHP (with BCMath ext) | ^8.1\|^8.2\|^8.3 |
-| Laravel               | ^10.0\|^11.0     |
+| PHP (with BCMath ext) | ^8.2\|^8.3\|^8.4 |
+| Laravel               | ^10.0\|^11.0\|^12.0 |
 
 ## Installation
 
